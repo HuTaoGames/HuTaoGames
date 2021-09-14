@@ -20,7 +20,7 @@
 
 - :seedling: I知 currently learning Many Coding Language's 
 
-- :people_with_bunny_ears_partying: I知 looking to collaborate on Projects,Tech Articles 
+- :cloud: I知 looking to collaborate on Projects,Tech Articles 
 
 - :speech_balloon: Talk to me about Python, JavaScript, Open Source 
 
